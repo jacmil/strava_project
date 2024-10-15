@@ -1,0 +1,28 @@
+display ACR injury risk graph
+----
+    calculate ACR
+    ---
+    I [activities]
+    SYS
+        iterate through list of activities
+
+
+
+training plan
+----
+asks for recommendation
+    gives past 3 weeks of training
+    basic injury diagnostic
+    selects training doctrine
+        polarized
+        pyramidal
+        pure volume
+        paleolothic
+        etc.
+
+algorithm creates training plan
+    maybe ml aspect?
+    logic for injury avoidance
+    ACR factored in
+
+output a recommendation
